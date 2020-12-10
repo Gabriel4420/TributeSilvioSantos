@@ -1,0 +1,133 @@
+@media(max-width: 480px) {
+ 
+  body {
+    padding: 0px;
+    margin: 0px;
+    
+  }
+  
+  figcaption {
+    text-align: center;
+    padding-top: 0px;
+    font-weight: bold;
+  }
+  
+  
+  
+  .container {
+    border-radius: none;
+    width: 290px;
+    margin-left: 25px !important;
+    padding-left:55px !important;
+    padding-right: 60px !important;
+    
+  }
+  
+  .page--title {
+    font-size: 30px !important;
+  }
+  
+  .page--paragraph {
+    font-size: 14px !important;
+    font-style: italic;
+  }
+  
+  img {
+    border-radius: 40px;
+    box-shadow: none;
+    height: 250px;
+    width: 250px;
+  }
+  
+  img:hover {
+    
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.096);
+  }
+  
+  .img--showerd {
+    text-align: center;
+    margin-top: 15px;
+  
+  }
+  
+  
+  .page--bio-container {
+    padding: 13px 0;
+    margin: 13px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+  
+  }
+  
+  .page--phrase-container {
+    background-color: #ddd;
+    padding: 15px;
+  }
+  
+  .page--phrase-container blockquote{
+    font-weight: bold;
+    font-size: 18px !important;
+    padding:0px !important;
+  }
+  
+  .page--phrase-container:hover, blockquote:hover{
+    background-color: rgb(0, 140, 255);
+    color:white;
+    font-size: 18px;
+  } 
+  
+  .page--phrase-container p {
+    font-style: italic;
+  }
+  
+  .interestings--container {
+    padding: 13px 0;
+    margin: 13px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+  }
+  
+  .interestings--container li {
+    height: 3rem !important;
+  }
+  
+  
+  
+  .biolink p{
+    padding-bottom:10px;
+
+  }
+  
+  .biolink a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button {
+    
+    padding: 10px !important;
+    border: 1px solid rgb(0, 140, 255);
+    background-color: transparent;
+    color:rgb(0, 140, 255);
+  
+  }
+  
+  a {
+    font-size: 18px !important;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .button:hover {
+    background-color: rgb(0, 140, 255);
+    color: white;
+  }
+  
+  footer {
+    padding-bottom: 15px;
+    padding-top: 25px;
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,153 @@
+* {
+  font-family: Helvetica;
+
+}
+
+body {
+  background-image: radial-gradient(rgb(35, 153, 231),rgb(30, 96, 150));
+  
+}
+
+.page-header {
+  flex: 1;
+
+}
+
+figcaption {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.showcase {
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 1200px;
+  padding: 20px 50px;
+  margin: 50px;
+  background-color: white;
+  border-radius: 80px;
+}
+
+.page--title {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(0, 140, 255);
+}
+
+.page--paragraph {
+  font-size: 20px;
+  font-style: italic;
+}
+
+img {
+  border-radius: 80px;
+  box-shadow: none;
+}
+
+img:hover {
+  
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.096);
+}
+
+.img--showerd {
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+
+.page--bio-container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #DDD;
+  border-bottom: 1px dashed #DDD;
+
+}
+
+.page--phrase-container {
+  background-color: #ddd;
+  padding: 30px;
+}
+
+.page--phrase-container blockquote {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.page--phrase-container:hover, blockquote:hover{
+  background-color: rgb(0, 140, 255);
+  color:white;
+} 
+
+.page--phrase-container p {
+  font-style: italic;
+}
+
+.interestings--container {
+  padding: 25px 0;
+  margin: 25px 0;
+  border-top: 1px dashed #DDD;
+  border-bottom: 1px dashed #DDD;
+}
+
+.interestings--container li {
+  height: 30px;
+}
+
+
+
+.biolink p{
+  padding-bottom:20px;
+}
+
+.biolink a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  
+  padding: 20px;
+  border: 1px solid rgb(0, 140, 255);
+  background-color: transparent;
+  color:rgb(0, 140, 255);
+
+}
+
+a {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: rgb(0, 140, 255);
+  color: white;
+}
+
+footer {
+  padding-bottom: 30px;
+  padding-top: 50px;
+  font-weight: bold;
+}
+
+::-webkit-scrollbar{
+  width:10px;
+}
+
+::-webkit-scrollbar-thumb{
+background:rgb(35, 153, 231);
+}
+
+::-webkit-scrollbar-track{
+background:#0873b1;
+}
