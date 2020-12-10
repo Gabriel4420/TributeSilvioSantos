@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img alt="Gif da Aplicação" src="img/presentation.png" />
+  <img alt="Gif da Aplicação" src="img/presentation.png" width=50 />
   <img alt="Gif da Aplicação" src="img/presentation2.png" />
 </p>
 
