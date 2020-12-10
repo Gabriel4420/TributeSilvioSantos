@@ -7,7 +7,7 @@
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/TributeSilvioSantos?logo=html">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/TributeSilvioSantos?color=green">
+  
 
   <br>
   
