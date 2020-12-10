@@ -31,13 +31,6 @@
 </p>
 
 ---
-
-# Indice
-
-- 🥇: [Sobre o Projeto](#rocket-sobre-o-projeto)
-
----
-
 ## 🥇: Sobre o Projeto
 
 A proposta do site é exercitar sobre CSS, design de interfaces e design de web-sites.
